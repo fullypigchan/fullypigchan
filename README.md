@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=fullypigchan&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-<h3 align="center">Hi! I'm pigchan0202</h3>
+<h3 align="center">안녕하세요 개발자 김윤찬 입니다.</h3>
 
 <p align="center">
   <a href="https://github.com/fullypigchan">
@@ -32,38 +32,12 @@
 
 <h2 align="center">Portfolio Repositories</h2>
 
-<p align="center">
-  <a href="https://github.com/fullypigchan/globalgates-aws">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fullypigchan&repo=globalgates-aws" alt="globalgates-aws"/>
-  </a>
-  <a href="https://github.com/fullypigchan/back2">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fullypigchan&repo=back2" alt="back2"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fullypigchan/back_bideo_new">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fullypigchan&repo=back_bideo_new" alt="back_bideo_new"/>
-  </a>
-  <a href="https://github.com/fullypigchan/clausion">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fullypigchan&repo=clausion" alt="clausion"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fullypigchan/front_bideo">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fullypigchan&repo=front_bideo" alt="front_bideo"/>
-  </a>
-  <a href="https://github.com/fullypigchan/back">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fullypigchan&repo=back" alt="back"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fullypigchan/front">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fullypigchan&repo=front" alt="front"/>
-  </a>
-</p>
+| Project | Project |
+| --- | --- |
+| [globalgates-aws](https://github.com/fullypigchan/globalgates-aws) | [back2](https://github.com/fullypigchan/back2) |
+| [back_bideo_new](https://github.com/fullypigchan/back_bideo_new) | [clausion](https://github.com/fullypigchan/clausion) |
+| [front_bideo](https://github.com/fullypigchan/front_bideo) | [back](https://github.com/fullypigchan/back) |
+| [front](https://github.com/fullypigchan/front) |  |
 
 <br>
 
