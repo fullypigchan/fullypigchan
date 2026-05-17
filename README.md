@@ -40,10 +40,3 @@
 | [front](https://github.com/fullypigchan/front) |  |
 
 <br>
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=fullypigchan&show_icons=true" alt="fullypigchan GitHub stats"/>
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fullypigchan&layout=compact&exclude_lang=C,CPP" alt="fullypigchan top languages"/>
-</p>
