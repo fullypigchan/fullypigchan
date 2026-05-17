@@ -32,11 +32,19 @@
 
 <h2 align="center">Portfolio Repositories</h2>
 
-| Project | Project |
-| --- | --- |
-| [globalgates-aws](https://github.com/fullypigchan/globalgates-aws) | [back2](https://github.com/fullypigchan/back2) |
-| [back_bideo_new](https://github.com/fullypigchan/back_bideo_new) | [clausion](https://github.com/fullypigchan/clausion) |
-| [front_bideo](https://github.com/fullypigchan/front_bideo) | [back](https://github.com/fullypigchan/back) |
-| [front](https://github.com/fullypigchan/front) |  |
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><a href="https://github.com/fullypigchan/globalgates-aws"><b>globalgates-aws</b></a></td>
+    <td width="25%" align="center"><a href="https://github.com/fullypigchan/back2"><b>back2</b></a></td>
+    <td width="25%" align="center"><a href="https://github.com/fullypigchan/back_bideo_new"><b>back_bideo_new</b></a></td>
+    <td width="25%" align="center"><a href="https://github.com/fullypigchan/clausion"><b>clausion</b></a></td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><a href="https://github.com/fullypigchan/front_bideo"><b>front_bideo</b></a></td>
+    <td width="25%" align="center"><a href="https://github.com/fullypigchan/back"><b>back</b></a></td>
+    <td width="25%" align="center"><a href="https://github.com/fullypigchan/front"><b>front</b></a></td>
+    <td width="25%" align="center"></td>
+  </tr>
+</table>
 
 <br>
